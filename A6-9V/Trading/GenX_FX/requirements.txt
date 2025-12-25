@@ -19,7 +19,7 @@ ccxt==4.1.77
 
 # Machine learning
 tensorflow==2.15.0
-torch==2.1.1
+torch==2.8.0
 transformers==4.35.2
 
 # Database and storage
