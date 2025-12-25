@@ -20,7 +20,7 @@ ccxt==4.1.77
 # Machine learning
 tensorflow==2.15.0
 torch==2.1.1
-transformers==4.35.2
+transformers==4.53.0
 
 # Database and storage
 sqlalchemy==2.0.23
