@@ -1,0 +1,6 @@
+[submodule "Projects/A69VTestApp"]
+	path = Projects/A69VTestApp
+	url = https://github.com/Mouy-leng/A69VTestApp.git
+[submodule "Projects/ProductionApp"]
+	path = Projects/ProductionApp
+	url = https://github.com/Mouy-leng/ProductionApp.git

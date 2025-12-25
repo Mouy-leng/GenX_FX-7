@@ -1,0 +1,47 @@
+# Ignore JetBrains IDE files
+.idea/
+*.iml
+
+# Windows shortcuts and system files
+*.lnk
+desktop.ini
+
+# Temp files created by drives/sync
+.tmp.driveupload/
+
+# Sensitive or local-only documents
+secret*.txt
+
+# Node/npm
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Visual Studio
+.vs/
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Secrets and environment files (never commit real secrets)
+.env
+.env.*
+*.env
+secrets/
+secrets.*
+*.pem
+*.key
+*.pfx
+*.p12
+*.keystore
+.envrc
+.venv/
+venv/
+pip-wheel-metadata/
+dist/
+build/

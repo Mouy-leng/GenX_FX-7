@@ -1,0 +1,28 @@
+{
+  "timestamp": "2025-10-20T13:24:45.633981",
+  "severity": "high",
+  "file_path": "G:\\Other computers\\My Laptop (1)\\D\\GenX_FX_OLD\\Development\\GenX_FX\\.env",
+  "location": "google_drive_g",
+  "confidence": 1.0,
+  "sensitive_patterns": [
+    "api_key",
+    "api_key",
+    "api_key",
+    "api_key",
+    "api_key",
+    "secret_key",
+    "access_token",
+    "access_token",
+    "password",
+    "password",
+    "password",
+    "password",
+    "password",
+    "password",
+    "password",
+    "password",
+    "password",
+    "password",
+    "github_token"
+  ]
+}

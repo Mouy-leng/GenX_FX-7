@@ -1,0 +1,24 @@
+{
+    "folders": [
+        {
+            "path": "A6-9V"
+        },
+        {
+            "path": "Projects"
+        },
+        {
+            "path": "docs"
+        },
+        {
+            "path": ".",
+            "name": "Root"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/.git": true,
+            "**/.idea": true,
+            "**/.vscode": true
+        }
+    }
+}

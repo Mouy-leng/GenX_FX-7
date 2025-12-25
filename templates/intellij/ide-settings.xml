@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IntelliJ IDEA optimized settings for A6-9V development -->
+<application>
+  <!-- General IDE Settings -->
+  <component name="GeneralSettings">
+    <option name="confirmExit" value="false" />
+    <option name="showTipsOnStartup" value="false" />
+    <option name="reopenLastProject" value="true" />
+    <option name="autoSaveFiles" value="true" />
+    <option name="synchronizeOnFrameActivation" value="true" />
+    <option name="saveOnFrameDeactivation" value="true" />
+    <option name="processCloseConfirmation" value="TERMINATE" />
+  </component>
+
+  <!-- Editor Settings -->
+  <component name="EditorSettings">
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="IS_WHITESPACES_SHOWN" value="false" />
+    <option name="IS_ANIMATED_SCROLLING" value="false" />
+    <option name="IS_CAMEL_WORDS" value="true" />
+    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+  </component>
+
+  <!-- Code Style Settings -->
+  <component name="CodeStyleSettings">
+    <option name="RIGHT_MARGIN" value="120" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+    <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  </component>
+
+  <!-- Performance Settings -->
+  <component name="FileWatcherManager">
+    <option name="SHOW_NOTIFICATION_ABOUT_EXTERNAL_CHANGE" value="false" />
+  </component>
+
+  <!-- Version Control -->
+  <component name="VcsConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+  </component>
+
+  <!-- Indexing -->
+  <component name="FileBasedIndex">
+    <option name="IGNORE_PLAIN_TEXT_FILES" value="true" />
+  </component>
+
+  <!-- UI Settings -->
+  <component name="UISettings">
+    <option name="SHOW_STATUS_BAR" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
+    <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="ALLOW_MERGE_BUTTONS" value="true" />
+    <option name="SHOW_MAIN_TOOLBAR" value="false" />
+    <option name="SHOW_CLOSE_BUTTON" value="true" />
+    <option name="EDITOR_TAB_LIMIT" value="15" />
+    <option name="RECENT_FILES_LIMIT" value="50" />
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="300" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="2048" />
+  </component>
+
+  <!-- Auto Import -->
+  <component name="JavaAutoImportOptions">
+    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
+  </component>
+
+  <!-- Live Templates -->
+  <component name="LiveTemplateSettings">
+    <option name="SHOW_TEMPLATE_IN_LOOKUP" value="true" />
+  </component>
+
+  <!-- Spell Checker -->
+  <component name="SpellcheckerSettings">
+    <option name="FOLDERS_TO_IGNORE">
+      <list>
+        <option value="target" />
+        <option value="build" />
+        <option value="node_modules" />
+        <option value=".git" />
+      </list>
+    </option>
+  </component>
+
+  <!-- External Tools -->
+  <component name="ToolsMenu">
+    <option name="IS_SHOWN_RECENTLY_CHANGED" value="false" />
+  </component>
+
+  <!-- Notifications -->
+  <component name="NotificationConfiguration">
+    <notification groupId="Build" displayType="NONE" shouldLog="false" />
+    <notification groupId="Gradle" displayType="BALLOON" shouldLog="true" />
+    <notification groupId="Maven" displayType="BALLOON" shouldLog="true" />
+  </component>
+
+  <!-- Project Structure -->
+  <component name="ProjectStructure">
+    <option name="SHOW_EMPTY_MIDDLE_PACKAGES" value="true" />
+    <option name="ABBREVIATE_PACKAGE_NAMES" value="false" />
+    <option name="HIDE_EMPTY_MIDDLE_PACKAGES" value="false" />
+  </component>
+</application>
