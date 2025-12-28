@@ -56,6 +56,26 @@ C:\Users\lengk\Dropbox\OneDrive\Desktop\
 - **Task Manager** - System resource monitoring
 - **Process Verification** - MT4/5 status checking
 
+### 5. Environment Variable Setup
+To securely manage your trading credentials, you need to set the following environment variables.
+
+**For MT4:**
+- `MT4_LOGIN`: Your MT4 account login
+- `MT4_PASSWORD`: Your MT4 account password
+- `MT4_SERVER`: Your MT4 server
+
+**For MT5:**
+- `MT5_LOGIN`: Your MT5 account login
+- `MT5_PASSWORD`: Your MT5 account password
+- `MT5_SERVER`: Your MT5 server
+
+You can set these variables in your system's environment settings. For example, in Windows, you can use the `setx` command:
+```powershell
+setx MT4_LOGIN "your_mt4_login"
+setx MT4_PASSWORD "your_mt4_password"
+setx MT4_SERVER "your_mt4_server"
+```
+
 ---
 
 ## 🚀 Usage Instructions
