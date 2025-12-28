@@ -12,17 +12,17 @@ Write-Host "══════════════════════�
 
 # Trading Account Configurations
 $MT4_CONFIG = @{
-    Login = "70559995"
-    Password = "Leng12345@#`$01"
-    Server = "Exness-Trail9"
+    Login = $env:MT4_LOGIN
+    Password = $env:MT4_PASSWORD
+    Server = $env:MT4_SERVER
     ProcessName = "terminal.exe"
     WindowTitle = "*MetaTrader 4*"
 }
 
 $MT5_CONFIG = @{
-    Login = "279260115"
-    Password = "Leng12345@#`$01"
-    Server = "Exness-MT5Trail8"
+    Login = $env:MT5_LOGIN
+    Password = $env:MT5_PASSWORD
+    Server = $env:MT5_SERVER
     ProcessName = "terminal64.exe"
     WindowTitle = "*MetaTrader 5*"
 }
