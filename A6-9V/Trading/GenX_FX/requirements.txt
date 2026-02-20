@@ -40,7 +40,7 @@ websocket-client==1.6.4
 # Configuration and secrets
 python-dotenv==1.0.0
 pydantic==2.5.0
-cryptography==44.0.1
+cryptography==46.0.5
 
 # Testing and development
 pytest==7.4.3
